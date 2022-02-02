@@ -214,9 +214,9 @@ a:visited {
   cursor: pointer;
 }
 
-/* .link {
+.link {
   transition: all 0.2s;
-} */
+}
 .link:active {
   transform: translate(0, 3px);
 }
