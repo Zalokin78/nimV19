@@ -99,6 +99,10 @@ a:active {
   background-color: black;
 }
 
+a:focus {
+  background-color: black;
+}
+
 .rounds-wrapper {
   /* position: absolute;
   left: 550px;
